@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0da29ae.css",
+    "main.js": "/static/js/main.d559426f.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/sea.mp3": "/static/media/sea.e4bdb895228f9d38c547.mp3",
+    "static/media/terre.jpg": "/static/media/terre.f9389f82920daddf36e4.jpg",
+    "static/media/underwater.mp3": "/static/media/underwater.1a3ecf50e3a55427c894.mp3",
+    "static/media/pokeia.png": "/static/media/pokeia.cd4ce13fbd7aafc5cab7.png",
+    "static/media/ship.png": "/static/media/ship.2f5a39e320f242b99112.png",
+    "static/media/jeesw.png": "/static/media/jeesw.24eeb63ef96ff27ddb5b.png",
+    "static/media/java.png": "/static/media/java.e4db937aabc200f752c4.png",
+    "static/media/node.png": "/static/media/node.abfaef34ea49d0c7cd3c.png",
+    "static/media/spring.png": "/static/media/spring.4a1df20e2f4d25b20b05.png",
+    "static/media/python.png": "/static/media/python.212de8d7278260fca353.png",
+    "static/media/rustLogo.png": "/static/media/rustLogo.56c9a573a5216c7413f6.png",
+    "static/media/js.png": "/static/media/js.ec1c0379d0e87cc38946.png",
+    "static/media/rust.png": "/static/media/rust.60ef2998203d7179b291.png",
+    "static/media/css.png": "/static/media/css.87f5b197963ce41cf34e.png",
+    "index.html": "/index.html",
+    "static/media/arrow.webp": "/static/media/arrow.ed3f962c53609ed2c991.webp",
+    "main.d0da29ae.css.map": "/static/css/main.d0da29ae.css.map",
+    "main.d559426f.js.map": "/static/js/main.d559426f.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0da29ae.css",
+    "static/js/main.d559426f.js"
+  ]
+}
